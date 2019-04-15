@@ -1,3 +1,11 @@
+**THIS PACKAGE HAS BEEN RETIRED AND ARCHIVED.**
+Refer to `erkghlerngm44/aniffinity <https://github.com/erkghlerngm44/aniffinity>`_
+for the new package.
+
+
+----
+
+
 |forthebadge1| |forthebadge2| |forthebadge3|
 
 
